@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/dblencowe/helm-charts/compare/v1.0.2...v1.0.3) (2023-08-18)
+
+
+### Bug Fixes
+
+* [opengist] fix opengist values file ([6550564](https://github.com/dblencowe/helm-charts/commit/6550564e55a2deda5b581dacb87c740e2e3e7477))
+
 ### [1.0.2](https://github.com/dblencowe/helm-charts/compare/v1.0.1...v1.0.2) (2023-08-18)
 
 ### 1.0.1 (2023-08-18)
