@@ -56,11 +56,11 @@ persistence:
   # annotations: {}
 
 service:
+  type: ClusterIP
+  annotations: {}
   http:
-    type: ClusterIP
     port: 80
   ssh:
-    type: ClusterIP
     port: 22
 
 ingress:
