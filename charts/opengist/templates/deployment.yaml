@@ -59,7 +59,7 @@ spec:
           persistentVolumeClaim:
             claimName: {{ .Values.persistence.existingClaim | default (include "opengist.fullname" .) }}
           {{- else }}
-            emptyDir: {}
+          emptyDir: {}
           {{- end -}}
       {{- with .Values.nodeSelector }}
       nodeSelector:
