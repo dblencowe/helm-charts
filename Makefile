@@ -7,7 +7,10 @@ package:
 index:
 	helm repo index --merge index.yaml --url https://dblencowe.github.io/helm-charts/ .
 
-default: lint package index
+next_ver:
+	standard-version --dry-run
+
+default: lint package index next_ver
 
 .PHONY: lint package index
 .DEFAULT_GOAL := default
