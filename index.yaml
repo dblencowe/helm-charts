@@ -3,7 +3,17 @@ entries:
   opengist:
   - apiVersion: v2
     appVersion: 1.4.2
-    created: "2023-08-18T19:15:29.647523954+01:00"
+    created: "2023-08-18T19:24:04.988470169+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2ede41af5b5d64b8e5f649ab9d45beecebb506495138ca50f01cdbe51cf71c7e
+    name: opengist
+    type: application
+    urls:
+    - https://dblencowe.github.io/helm-charts/opengist-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.4.2
+    created: "2023-08-18T19:24:04.987710863+01:00"
     description: A Helm chart for Kubernetes
     digest: cb4791b8fcce6810f66d33c6abfa26bcf21ded800fc3135e4133034c58e655a6
     name: opengist
@@ -13,7 +23,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.4.2
-    created: "2023-08-18T19:15:29.646565536+01:00"
+    created: "2023-08-18T19:24:04.986998689+01:00"
     description: A Helm chart for Kubernetes
     digest: 71e1a9a378960818680dd145763a619c13e079068d906cd92fce662a77237339
     name: opengist
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://dblencowe.github.io/helm-charts/opengist-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-18T19:15:29.645013792+01:00"
+generated: "2023-08-18T19:24:04.985863854+01:00"
