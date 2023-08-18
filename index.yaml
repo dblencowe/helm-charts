@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  opengist:
+  - apiVersion: v2
+    appVersion: 1.4.2
+    created: "2023-08-18T18:46:52.411597904+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 600dafa483790c8e9cf3b659fd8a5bfa4cf7ab20b64caded9978b1b3531e1d1e
+    name: opengist
+    type: application
+    urls:
+    - https://dblencowe.github.io/helm-charts/opengist-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-18T18:46:52.411008311+01:00"
